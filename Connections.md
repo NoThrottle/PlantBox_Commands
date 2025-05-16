@@ -10,8 +10,6 @@ This document provides a guide for connecting components to the Arduino board fo
 - **Power**
   - `VCC` -> Connect to Arduino `5V`
   - `GND` -> Connect to Arduino `GND`
-- **External Power (Optional)**
-  - `V+` -> Connect to external power source for servos (ensure voltage matches servo requirements).
 
 ## PN532 NFC Module
 
